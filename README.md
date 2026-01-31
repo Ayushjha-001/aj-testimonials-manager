@@ -30,6 +30,22 @@ Meta Boxes
 
 Nonces & Sanitization
 
+
+##  Screenshots
+
+### Admin – Testimonials Manager
+![Admin List](screenshots/admin-list.png)
+
+### Meta Box Editor
+![Meta Box](screenshots/meta-box.png)
+
+### Frontend Rendering
+![Frontend](screenshots/frontend.png)
+
+### REST API Output
+![API](screenshots/api.png)
+
+
 ### Installation (Local)
 
 Clone into:
